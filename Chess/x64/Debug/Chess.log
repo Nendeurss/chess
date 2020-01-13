@@ -1,0 +1,12 @@
+﻿  board.cpp
+  c1xx: fatal error C1083: Impossible d'ouvrir le fichier source : '..\..\..\..\Documents\ESIEE\E3\Chess\tscp181c\tscp181c\board.cpp' : No such file or directory
+  book.cpp
+  c1xx: fatal error C1083: Impossible d'ouvrir le fichier source : '..\..\..\..\Documents\ESIEE\E3\Chess\tscp181c\tscp181c\book.cpp' : No such file or directory
+  data.cpp
+  c1xx: fatal error C1083: Impossible d'ouvrir le fichier source : '..\..\..\..\Documents\ESIEE\E3\Chess\tscp181c\tscp181c\data.cpp' : No such file or directory
+  eval.cpp
+  c1xx: fatal error C1083: Impossible d'ouvrir le fichier source : '..\..\..\..\Documents\ESIEE\E3\Chess\tscp181c\tscp181c\eval.cpp' : No such file or directory
+  search.cpp
+  c1xx: fatal error C1083: Impossible d'ouvrir le fichier source : '..\..\..\..\Documents\ESIEE\E3\Chess\tscp181c\tscp181c\search.cpp' : No such file or directory
+  Génération de code en cours...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(429,5): error MSB6006: Arrêt de "CL.exe" avec le code 2.
